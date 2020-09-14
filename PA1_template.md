@@ -8,7 +8,6 @@ output:
 
 ## 1. Loading and preprocessing the data
 
-
 ```r
 mydata <- read.csv("/Users/thuyle/Downloads/activity.csv")
 ```
